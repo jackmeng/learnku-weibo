@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bb5cc41-d641-451f-b962-dddb232df27b" name="Default Changelist" comment="" />
+    <list default="true" id="5bb5cc41-d641-451f-b962-dddb232df27b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,11 +151,17 @@
       <option name="presentableId" value="Default" />
       <updated>1584111624235</updated>
       <workItem from="1584111628421" duration="132000" />
-      <workItem from="1584111771473" duration="337000" />
+      <workItem from="1584111771473" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="190" width="642" height="524" key="find.popup" timestamp="1584112330789">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="447" y="190" width="642" height="524" key="find.popup/0.40.1536.824@0.40.1536.824" timestamp="1584112330789" />
   </component>
 </project>
