@@ -19,6 +19,7 @@ class FollowersTableSeeder extends Seeder
 
         // 获取去除掉 ID 为 1 的所有用户 ID 数组
         $followers = $users->slice(1);
+
         $follower_ids = $followers->pluck('id')->toArray();
 
         // 关注除了 1 号用户以外的所有用户
@@ -26,7 +27,6 @@ class FollowersTableSeeder extends Seeder
 
         // 除了 1 号用户以外的所有用户都来关注 1 号用户
         foreach ($followers as $follower) {
-
             $follower->follow($user_id);
         }
     }
